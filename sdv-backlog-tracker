@@ -1,0 +1,10 @@
+sdv-backlog-tracker/
+├── app/                      (or src/)
+│   └── page.tsx             ← Your current component
+├── components/ui/           ← ShadCN components (Card, Button, Input, Table, etc.)
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── .gitignore
+├── README.md
